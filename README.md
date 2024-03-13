@@ -1,2 +1,2 @@
 # easy-signalR
-brief signalR sample 
+brief signalR sample for article in medium 
