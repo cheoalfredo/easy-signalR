@@ -1,5 +1,5 @@
 # easy-signalR
-brief signalR sample for article in medium 
+brief signalR sample for article in [medium](https://cheoalfredo.medium.com/un-cuento-super-cortito-acerca-de-websockets-y-signalr-7497d2ab5977)
 
 # Instrucciones 
 
