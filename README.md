@@ -9,4 +9,4 @@ brief signalR sample for article in [medium](https://cheoalfredo.medium.com/un-c
   <pre>
   {"protocol":"json","version":1}
   </pre>
-*  Vaya al swagger de la api e invoke el unico endpoint existente y mire como fluyen los eventos del servidor al cliente insomnia 
+*  Vaya al swagger de la api e invoque el unico endpoint existente y mire como fluyen los eventos del servidor al cliente insomnia 
